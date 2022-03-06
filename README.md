@@ -1,30 +1,24 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I see a great need in the ability to create mobile apps throughout a career. I created this program in hopes that it would give me a strong foundation to build on and be able to learn more from here.
 
-{Provide a description of your app.  Describe how to use the app.}
-
-{Describe your purpose for creating this app.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
+To use the app, you must enter a value in either Quetzales or Dollars. You can then push the correct button to convert the value into the other currency. The reset button will clear the input and output values.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the app}
+Android studio was used to create the application
 
-{Describe the programming language that you used and any libraries.}
+Kotlin is the primary language.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Android Developer](https://developer.android.com/courses/android-basics-kotlin/course)
+* [Android Developer](https://developer.android.com/training/basics/firstapp)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Decorate the app
+* Add the option for other currencies
+* Pull from an API to get the current exchange rates
