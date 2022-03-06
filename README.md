@@ -4,7 +4,7 @@ I see a great need in the ability to create mobile apps throughout a career. I c
 
 To use the app, you must enter a value in either Quetzales or Dollars. You can then push the correct button to convert the value into the other currency. The reset button will clear the input and output values.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/dsURaZwY3m8)
 
 # Development Environment
 
